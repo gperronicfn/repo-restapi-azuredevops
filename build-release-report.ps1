@@ -1,8 +1,7 @@
-#script to collect timestamp from buils and deployments
-$personalToken = "joutda5axfaycwcipuugnfukjkdjzb6mw5cemrcqwo6b47ysfjra"
+$personalToken = "---" 
 $minTime = "2022-4-01"
 $maxTime = "2022-4-30"
-$OutPath="deployments.csv"
+$OutPath="Deployments_AzureDevopsAPR2022.csv"
 
 $token = [System.Convert]::ToBase64String([System.Text.Encoding]::ASCII.GetBytes(":$($personalToken)"))
 $header = @{authorization = "Basic $token"}

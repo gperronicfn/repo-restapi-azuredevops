@@ -1,0 +1,368 @@
+CFN DevOps Team, 2647, CI-SF-SANDBOX, succeeded, 04/14/2022 15:54:15
+CFN DevOps Team, 2605, CI-SF-SANDBOX, succeeded, 04/07/2022 19:01:17
+CFN DevOps Team, 2604, CI-SF-SANDBOX, succeeded, 04/07/2022 18:47:57
+CFN DevOps Team, 2603, CI-SF-SANDBOX, succeeded, 04/07/2022 18:38:02
+CFN DevOps Team, 20220401.3, CFN-DEV.repo-java-test PROD, succeeded, 04/01/2022 20:34:46
+CFN DevOps Team, 20220401.6, YAML-Dev-pipeline-testing-mp, succeeded, 04/01/2022 17:48:52
+CFN DevOps Team, 20220401.4, YAML-Dev-pipeline-testing-mp, succeeded, 04/01/2022 16:05:32
+CFN DevOps Team, 20220316.4, YAML-QA-pipeline-testing-mp, succeeded, 03/17/2022 01:54:33
+CFN DevOps Team, New release pipeline, Stage 1, failed, 04/25/2022 22:29:44
+CFN DevOps Team, CD-SF-SANDBOX, Stage 1, succeeded, 04/07/2022 18:58:32
+CFN DevOps Team, CD-SF-SANDBOX, Stage 1, failed, 04/07/2022 19:09:37
+CFN DevOps Team, CD-SF-SANDBOX, Stage 1, succeeded, 04/07/2022 19:13:43
+CFN DevOps Team, CD-SF-SANDBOX, Stage 1, succeeded, 04/07/2022 19:19:07
+CFN DevOps Team, CD-SF-SANDBOX, Stage 1, failed, 04/07/2022 19:22:21
+CFN DevOps Team, CD-SF-SANDBOX, Stage 1, notDeployed, 01/01/0001 00:00:00
+CFN DevOps Team, CD-SF-SANDBOX, Stage 1, failed, 04/07/2022 19:31:36
+CFN DevOps Team, CD-SF-SANDBOX, SANDBOX, failed, 04/07/2022 19:59:11
+CFN DevOps Team, CD-SF-SANDBOX, SANDBOX, failed, 04/07/2022 20:04:14
+CFN DevOps Team, CD-SF-SANDBOX, SANDBOX, failed, 04/07/2022 20:24:48
+CFN DevOps Team, BrandStudio-Test-Release, Stage 1, succeeded, 02/15/2022 21:44:04
+CFN DevOps Team, CD-SF-SANDBOX, SANDBOX, failed, 04/08/2022 14:51:47
+CFN DevOps Team, CD-SF-SANDBOX-PARAM, SANDBOX, succeeded, 04/17/2022 05:08:02
+CFN DevOps Team, CD-SF-SANDBOX-PARAM, SANDBOX, failed, 04/25/2022 21:50:39
+CFN DevOps Team, CD-SF-SANDBOX-PARAM, SANDBOX, notDeployed, 01/01/0001 00:00:00
+CFN DevOps Team, CD-SF-SANDBOX-PARAM, SANDBOX, failed, 04/25/2022 21:54:27
+CFN DevOps Team, CD-SF-SANDBOX-PARAM, SANDBOX, failed, 04/25/2022 21:58:22
+CFN DevOps Team, New release pipeline, Stage 1, succeeded, 04/25/2022 22:03:26
+CFN DevOps Team, New release pipeline, Stage 1, failed, 04/25/2022 22:13:04
+CFN DevOps Team, New release pipeline, Stage 1, failed, 04/25/2022 22:17:31
+CFN DevOps Team, New release pipeline, Stage 1, failed, 04/25/2022 22:19:17
+CFN DevOps Team, New release pipeline, Stage 1, failed, 04/25/2022 22:27:44
+CFN DevOps Team, CD-SF-SANDBOX-PARAM, SANDBOX, succeeded, 04/14/2022 15:58:13
+CFN DevOps Team, BrandStudio-Test-Release, Stage 1, succeeded, 02/15/2022 21:32:41
+Interop-Mulesoft, 3190, BiDirectional Sync Build, succeeded, 05/02/2022 20:42:55
+Interop-Mulesoft, 20220502.5, YAML-BiDirectional Sync, succeeded, 05/02/2022 20:31:58
+Interop-Mulesoft, 20220502.1, CICD-DEV-Interop-API-ServiceNowProcess, succeeded, 05/02/2022 19:12:53
+Interop-Mulesoft, 3183, BiDirectional Sync Build, succeeded, 05/02/2022 14:21:17
+Interop-Mulesoft, 20220502.4, YAML-BiDirectional Sync, succeeded, 05/02/2022 14:07:29
+Interop-Mulesoft, 20220501.2, YAML - Dev - repo-interop-api-error-logging, succeeded, 05/02/2022 03:34:46
+Interop-Mulesoft, 20220501.1, YAML - Dev - repo-interop-api-error-logging, succeeded, 05/02/2022 02:30:10
+Interop-Mulesoft, 20220429.4, YAML-BiDirectional Sync, succeeded, 04/29/2022 20:08:12
+Interop-Mulesoft, 20220429.1, CICD- Dev - Salesforce System API, failed, 04/29/2022 19:51:57
+Interop-Mulesoft, 20220429.1, CICD-  Stage - Salesforce System API, succeeded, 04/29/2022 19:47:45
+Interop-Mulesoft, 20220429.1, YAML-Salesforce System API, failed, 04/29/2022 19:45:57
+Interop-Mulesoft, 20220428.1, YAML - Dev - repo-interop-api-error-logging, failed, 04/28/2022 18:51:33
+Interop-Mulesoft, 20220428.1, CICD-DEV-Interop-API-ServiceNowSystem, succeeded, 04/28/2022 15:20:19
+Interop-Mulesoft, 20220427.3, YAML-BiDirectional Sync, succeeded, 04/27/2022 23:11:50
+Interop-Mulesoft, 20220427.1, CICD-DEV-Interop-API-ServiceNowSystem, succeeded, 04/27/2022 18:21:14
+Interop-Mulesoft, 20220427.1, YAML - Dev - repo-interop-api-error-logging, failed, 04/27/2022 17:27:40
+Interop-Mulesoft, 20220426.1, CICD-DEV-Interop-API-ServiceNowSystem, succeeded, 04/26/2022 22:06:45
+Interop-Mulesoft, 20220426.1, YAML - Dev - repo-interop-api-error-logging, failed, 04/26/2022 19:07:34
+Interop-Mulesoft, 20220421.4, CICD-DEV-Interop-API-ServiceNowSystem, succeeded, 04/21/2022 15:35:51
+Interop-Mulesoft, 20220421.3, CICD-DEV-Interop-API-ServiceNowSystem, failed, 04/21/2022 14:47:01
+Interop-Mulesoft, 20220421.2, CICD-DEV-Interop-API-ServiceNowSystem, failed, 04/21/2022 14:07:48
+Interop-Mulesoft, 20220421.1, CICD-DEV-Interop-API-ServiceNowSystem, failed, 04/21/2022 12:58:44
+Interop-Mulesoft, 20220420.2, CICD-DEV-Interop-API-ServiceNowSystem, failed, 04/21/2022 05:15:46
+Interop-Mulesoft, 20220420.1, CICD-DEV-Interop-API-ServiceNowSystem, canceled, 04/21/2022 05:17:14
+Interop-Mulesoft, 20220414.1, CICD- Dev - Salesforce System API, succeeded, 04/14/2022 22:16:23
+Interop-Mulesoft, 20220414.1, CICD-  Stage - Salesforce System API, succeeded, 04/14/2022 22:14:18
+Interop-Mulesoft, 20220414.1, YAML-Salesforce System API, succeeded, 04/14/2022 22:12:03
+Interop-Mulesoft, 2643, Hubble System API Build, succeeded, 04/14/2022 14:39:23
+Interop-Mulesoft, 20220408.1, YAML - Dev - repo-interop-api-error-logging, succeeded, 04/08/2022 16:55:32
+Interop-Mulesoft, 20220405.1, CICD- Dev - Salesforce System API, succeeded, 04/06/2022 01:31:01
+Interop-Mulesoft, 2553, Hubble System API Build, succeeded, 04/05/2022 19:53:33
+Interop-Mulesoft, 20220405.1, YAML - Dev - repo-interop-api-error-logging, succeeded, 04/05/2022 18:36:51
+Interop-Mulesoft, BiDirectional Sync Release, dev, succeeded, 05/02/2022 20:54:12
+Interop-Mulesoft, test, dev, failed, 01/14/2022 15:33:08
+Interop-Mulesoft, New release pipeline, dev, failed, 01/14/2022 15:22:36
+Interop-Mulesoft, Affiliate System API - Release, dev, succeeded, 01/14/2022 09:09:00
+Interop-Mulesoft, Discovery Data Process API Release, Prod, succeeded, 01/12/2022 22:30:59
+Interop-Mulesoft, Discovery Data Process API Release, Dev, succeeded, 01/12/2022 22:25:32
+Interop-Mulesoft, Affiliate System API - Release, dev, succeeded, 01/12/2022 17:48:29
+Interop-Mulesoft, Affiliate System API - Release, dev, succeeded, 01/12/2022 17:34:38
+Interop-Mulesoft, Advisory Process API - Release, dev, succeeded, 01/06/2022 16:35:21
+Interop-Mulesoft, Advisory Process API - Release, dev, succeeded, 01/03/2022 21:38:47
+Interop-Mulesoft, Advisory Process API - Release, dev, succeeded, 01/03/2022 18:14:00
+Interop-Mulesoft, Discovery Data Process API Release, Prod, succeeded, 12/23/2021 16:27:16
+Interop-Mulesoft, Discovery Data Process API Release, Dev, succeeded, 12/22/2021 03:02:11
+Interop-Mulesoft, Discovery Data Process API Release, Dev, succeeded, 12/20/2021 22:49:47
+Interop-Mulesoft, Discovery Data Process API Release, Dev, succeeded, 12/10/2021 14:53:47
+Interop-Mulesoft, Discovery Data Process API Release, Prod, succeeded, 12/10/2021 14:45:15
+Interop-Mulesoft, OneTimeDownload - Part1 Release, Prod, succeeded, 12/06/2021 18:27:08
+Interop-Mulesoft, OneTimeDownload - Part1 Release, dev, succeeded, 12/06/2021 18:17:32
+Interop-Mulesoft, OneTimeDownload - Part2 Release, Prod, succeeded, 12/06/2021 16:29:56
+Interop-Mulesoft, OneTimeDownload - Part2 Release, dev, succeeded, 12/06/2021 16:24:33
+Interop-Mulesoft, OneTimeDownload - Part1 Release, Prod, succeeded, 12/06/2021 13:45:58
+Interop-Mulesoft, OneTimeDownload - Part1 Release, dev, succeeded, 12/06/2021 00:28:51
+Interop-Mulesoft, New release pipeline, dev, failed, 01/17/2022 17:34:37
+Interop-Mulesoft, New release pipeline, dev, failed, 01/19/2022 10:04:36
+Interop-Mulesoft, New release pipeline, test, failed, 01/19/2022 10:05:28
+Interop-Mulesoft, Affiliate System API - Release, QA, failed, 01/19/2022 10:10:43
+Interop-Mulesoft, BiDirectional Sync Release, dev, succeeded, 05/02/2022 14:32:24
+Interop-Mulesoft, Hubble System API - Release, dev, succeeded, 04/14/2022 14:51:08
+Interop-Mulesoft, BiDirectional Sync Release, Prod, succeeded, 04/06/2022 01:18:52
+Interop-Mulesoft, Salesforce System API - Release, Prod, succeeded, 04/06/2022 01:10:44
+Interop-Mulesoft, Hubble System API - Release, dev, succeeded, 04/05/2022 20:04:07
+Interop-Mulesoft, BiDirectional Sync Release, dev, succeeded, 03/23/2022 16:09:14
+Interop-Mulesoft, Salesforce System API - Release, dev, succeeded, 03/23/2022 16:01:06
+Interop-Mulesoft, BiDirectional Sync Release, Prod, succeeded, 03/09/2022 02:19:45
+Interop-Mulesoft, Salesforce System API - Release, Prod, succeeded, 03/09/2022 02:11:31
+Interop-Mulesoft, BiDirectional Sync Release, dev, succeeded, 03/07/2022 17:17:45
+Interop-Mulesoft, Discovery Data System API Release, Prod, succeeded, 12/03/2021 23:02:56
+Interop-Mulesoft, Salesforce System API - Release, dev, succeeded, 03/03/2022 17:32:37
+Interop-Mulesoft, BiDirectional Sync Release, Prod, succeeded, 02/16/2022 02:17:45
+Interop-Mulesoft, Salesforce System API - Release, Prod, succeeded, 02/16/2022 02:09:55
+Interop-Mulesoft, BiDirectional Sync Release, dev, succeeded, 02/15/2022 04:25:38
+Interop-Mulesoft, Salesforce System API - Release, dev, succeeded, 02/15/2022 04:15:09
+Interop-Mulesoft, OneTimeDownload - Part1 Release, dev, succeeded, 02/03/2022 18:21:52
+Interop-Mulesoft, OneTimeDownload - Part1 Release, dev, failed, 02/03/2022 18:12:00
+Interop-Mulesoft, OneTimeDownload - Part1 Release, dev, failed, 02/03/2022 18:05:27
+Interop-Mulesoft, Discovery Data System API Release, Prod, succeeded, 01/25/2022 18:39:04
+Interop-Mulesoft, Hubble System API - Release, dev, succeeded, 01/25/2022 18:26:59
+Interop-Mulesoft, Discovery Data System API Release, dev, succeeded, 01/25/2022 18:19:50
+Interop-Mulesoft, OneTimeDownload - Part1 Release, Prod, succeeded, 03/03/2022 01:12:33
+Interop-Mulesoft, Discovery Data System API Release, dev, succeeded, 12/03/2021 22:58:04
+Data Management, ci-repo-dst-snowflake-cdw_merge_20220502_.2, ci-repo-dst-snowflake-cdw, succeeded, 05/02/2022 16:16:17
+Data Management, ci-repo-dst-snowflake-cdw_merge_20220502_.1, ci-repo-dst-snowflake-cdw, succeeded, 05/02/2022 15:24:52
+Data Management, ci-repo-dst-sql-dba_develop_20220502_10_51.1, ci-repo-dst-sql-dba, succeeded, 05/02/2022 14:52:21
+Data Management, ci-repo-dst-sql-dba_merge_20220502_10_51.1, ci-repo-dst-sql-dba, failed, 05/02/2022 14:51:35
+Data Management, ci-repo-dst-mdm-profisee_bugfix-0429-mdm_20220429_.2, ci-repo-dst-mdm-profisee, succeeded, 04/29/2022 20:22:42
+Data Management, ci-repo-dst-mdm-profisee_bugfix-0429-mdm_20220429_.1, ci-repo-dst-mdm-profisee, succeeded, 04/29/2022 20:21:38
+Data Management, ci-repo-dst-mdm-profisee_bugfix-0429-mdm-deployment_20220429_.1, ci-repo-dst-mdm-profisee, succeeded, 04/29/2022 19:45:01
+Data Management, ci-repo-dst-mdm-profisee_release-1.2_20220429_.1, ci-repo-dst-mdm-profisee, succeeded, 04/29/2022 19:12:56
+Data Management, ci-repo-dst-mdm-profisee_merge_20220429_.2, ci-repo-dst-mdm-profisee, failed, 04/29/2022 19:12:30
+Data Management, ci-repo-dst-mdm-profisee_develop_20220429_.1, ci-repo-dst-mdm-profisee, succeeded, 04/29/2022 19:12:01
+Data Management, ci-repo-dst-mdm-profisee_merge_20220429_.1, ci-repo-dst-mdm-profisee, succeeded, 04/29/2022 19:11:03
+Data Management, ci-repo-dst-snowflake-cdw_merge_20220428_.1, ci-repo-dst-snowflake-cdw, failed, 04/29/2022 00:06:18
+Data Management, ci-repo-dst-mdm-profisee_hotfix-20220428-match-rule_20220428_.2, ci-repo-dst-mdm-profisee, succeeded, 04/28/2022 20:08:53
+Data Management, ci-repo-dst-mdm-profisee_hotfix-20220428-match-rule_20220428_.1, ci-repo-dst-mdm-profisee, succeeded, 04/28/2022 17:19:44
+Data Management, ci-repo-dst-snowflake-cdw_merge_20220427_.1, ci-repo-dst-snowflake-cdw, succeeded, 04/27/2022 19:35:23
+Data Management, ci-repo-dst-snowflake-cdw_develop_20220427_.1, ci-repo-dst-snowflake-cdw, succeeded, 04/27/2022 18:16:51
+Data Management, ci-repo-dst-adf-cdw-load_develop_20220426_17_47.1, ci-repo-dst-adf-cdw-load, succeeded, 04/26/2022 21:47:30
+Data Management, ci-repo-dst-adf-cdw-load_merge_20220426_17_43.1, ci-repo-dst-adf-cdw-load, succeeded, 04/26/2022 21:44:05
+Data Management, ci-repo-dst-mdm-profisee_release-1.2_20220426_.1, ci-repo-dst-mdm-profisee, succeeded, 04/26/2022 17:01:42
+Data Management, ci-repo-dst-mdm-profisee_develop_20220426_.1, ci-repo-dst-mdm-profisee, succeeded, 04/26/2022 17:01:11
+Data Management, ci-repo-dst-mdm-profisee_bugfix-0426-mdm-deployment_20220426_.2, ci-repo-dst-mdm-profisee, succeeded, 04/26/2022 14:38:56
+Data Management, ci-repo-dst-mdm-profisee_bugfix-0426-mdm-deployment_20220426_.1, ci-repo-dst-mdm-profisee, succeeded, 04/26/2022 14:05:42
+Data Management, ci-repo-dst-snowflake-cdw_develop_20220425_.1, ci-repo-dst-snowflake-cdw, succeeded, 04/25/2022 20:39:03
+Data Management, ci-repo-dst-snowflake-cdw_merge_20220425_.4, ci-repo-dst-snowflake-cdw, failed, 04/25/2022 20:38:25
+Data Management, ci-repo-dst-snowflake-cdw_bugfix-3175-ContactRoleAddressFix_20220425_.3, ci-repo-dst-snowflake-cdw, succeeded, 04/25/2022 20:38:08
+Data Management, ci-repo-dst-snowflake-cdw_release-1.8.1_20220425_.1, ci-repo-dst-snowflake-cdw, succeeded, 04/25/2022 20:31:21
+Data Management, ci-repo-dst-snowflake-cdw_merge_20220425_.3, ci-repo-dst-snowflake-cdw, failed, 04/25/2022 20:30:56
+Data Management, ci-repo-dst-snowflake-cdw_merge_20220425_.2, ci-repo-dst-snowflake-cdw, succeeded, 04/25/2022 20:24:03
+Data Management, ci-repo-dst-snowflake-cdw_bugfix-3175-ContactRoleAddressFix_20220425_.2, ci-repo-dst-snowflake-cdw, succeeded, 04/25/2022 20:09:20
+Data Management, ci-repo-dst-snowflake-cdw_bugfix-3175-ContactRoleAddressFix_20220425_.1, ci-repo-dst-snowflake-cdw, succeeded, 04/25/2022 20:03:49
+Data Management, ci-repo-dst-snowflake-cdw_merge_20220425_.1, ci-repo-dst-snowflake-cdw, succeeded, 04/25/2022 20:03:07
+Data Management, ci-repo-dst-snowflake-cdw_bugfix-3175-ContactRoleAddressViewUpdate_20220425_.2, ci-repo-dst-snowflake-cdw, succeeded, 04/25/2022 20:02:48
+Data Management, ci-repo-dst-snowflake-cdw_bugfix-3175-ContactRoleAddressViewUpdate_20220425_.1, ci-repo-dst-snowflake-cdw, succeeded, 04/25/2022 19:54:59
+Data Management, ci-repo-dst-mdm-profisee_release-1.2_20220422_.1, ci-repo-dst-mdm-profisee, succeeded, 04/22/2022 19:21:08
+Data Management, ci-repo-dst-mdm-profisee_develop_20220422_.1, ci-repo-dst-mdm-profisee, succeeded, 04/22/2022 18:08:14
+Data Management, ci-repo-dst-mdm-profisee_bugfix-20220422-nbd_20220422_.4, ci-repo-dst-mdm-profisee, succeeded, 04/22/2022 18:07:24
+Data Management, ci-repo-dst-mdm-profisee_bugfix-20220422-nbd_20220422_.3, ci-repo-dst-mdm-profisee, succeeded, 04/22/2022 17:18:15
+Data Management, ci-repo-dst-mdm-profisee_bugfix-20220422-nbd_20220422_.2, ci-repo-dst-mdm-profisee, succeeded, 04/22/2022 16:36:37
+Data Management, ci-repo-dst-mdm-profisee_bugfix-20220422-nbd_20220422_.1, ci-repo-dst-mdm-profisee, succeeded, 04/22/2022 14:11:08
+Data Management, ci-repo-dst-snowflake-cdw_release-1.8.1_20220421_.2, ci-repo-dst-snowflake-cdw, succeeded, 04/21/2022 19:26:14
+Data Management, ci-repo-dst-snowflake-cdw_release-1.8.1_20220421_.1, ci-repo-dst-snowflake-cdw, succeeded, 04/21/2022 19:07:50
+Data Management, ci-repo-dst-mdm-profisee_release-1.2_20220420_.1, ci-repo-dst-mdm-profisee, succeeded, 04/20/2022 20:43:15
+Data Management, ci-repo-dst-mdm-profisee_develop_20220420_.6, ci-repo-dst-mdm-profisee, succeeded, 04/20/2022 18:39:40
+Data Management, ci-repo-dst-mdm-profisee_bugfix-0420-reject-reason_20220420_.4, ci-repo-dst-mdm-profisee, succeeded, 04/20/2022 18:38:50
+Data Management, ci-repo-dst-mdm-profisee_develop_20220420_.5, ci-repo-dst-mdm-profisee, succeeded, 04/20/2022 18:04:30
+Data Management, ci-repo-dst-mdm-profisee_bugfix-0420-reject-reason_20220420_.3, ci-repo-dst-mdm-profisee, succeeded, 04/20/2022 18:03:33
+Data Management, ci-repo-dst-mdm-profisee_bugfix-0420-reject-reason_20220420_.2, ci-repo-dst-mdm-profisee, succeeded, 04/20/2022 18:00:08
+Data Management, ci-repo-dst-adf-cdw-load_main_20220420_13_16.1, ci-repo-dst-adf-cdw-load, succeeded, 04/20/2022 17:16:53
+Data Management, ci-repo-dst-mdm-profisee_develop_20220420_.4, ci-repo-dst-mdm-profisee, succeeded, 04/20/2022 15:41:43
+Data Management, ci-repo-dst-mdm-profisee_bugfix-0420-reject-reason_20220420_.1, ci-repo-dst-mdm-profisee, succeeded, 04/20/2022 15:40:43
+Data Management, ci-repo-dst-mdm-profisee_develop_20220420_.3, ci-repo-dst-mdm-profisee, succeeded, 04/20/2022 15:31:21
+Data Management, ci-repo-dst-mdm-profisee_bugfix-0420-mdm-deployment_20220420_.2, ci-repo-dst-mdm-profisee, succeeded, 04/20/2022 15:30:13
+Data Management, ci-repo-dst-mdm-profisee_bugfix-0420-mdm-deployment_20220420_.1, ci-repo-dst-mdm-profisee, succeeded, 04/20/2022 15:29:27
+Data Management, ci-repo-dst-mdm-profisee_develop_20220420_.2, ci-repo-dst-mdm-profisee, succeeded, 04/20/2022 15:27:56
+Data Management, ci-repo-dst-mdm-profisee_develop_20220420_.1, ci-repo-dst-mdm-profisee, succeeded, 04/20/2022 13:23:17
+Data Management, ci-repo-dst-mdm-profisee_develop_20220419_.7, ci-repo-dst-mdm-profisee, succeeded, 04/19/2022 20:49:01
+Data Management, ci-repo-dst-mdm-profisee_develop_20220419_.6, ci-repo-dst-mdm-profisee, succeeded, 04/19/2022 20:43:07
+Data Management, ci-repo-dst-mdm-profisee_develop_20220419_.5, ci-repo-dst-mdm-profisee, succeeded, 04/19/2022 20:31:38
+Data Management, ci-repo-dst-mdm-profisee_develop_20220419_.4, ci-repo-dst-mdm-profisee, succeeded, 04/19/2022 19:35:14
+Data Management, ci-repo-dst-mdm-profisee_develop_20220419_.3, ci-repo-dst-mdm-profisee, succeeded, 04/19/2022 18:59:05
+Data Management, ci-repo-dst-mdm-profisee_develop_20220419_.2, ci-repo-dst-mdm-profisee, succeeded, 04/19/2022 17:10:54
+Data Management, ci-repo-dst-mdm-profisee_develop_20220419_.1, ci-repo-dst-mdm-profisee, succeeded, 04/19/2022 16:46:10
+Data Management, ci-repo-dst-adf-cdw-load_release-1.8_20220418_17_18.1, ci-repo-dst-adf-cdw-load, succeeded, 04/18/2022 21:18:17
+Data Management, ci-repo-dst-mdm-profisee_develop_20220418_.2, ci-repo-dst-mdm-profisee, succeeded, 04/18/2022 19:46:34
+Data Management, ci-repo-dst-mdm-profisee_develop_20220418_.1, ci-repo-dst-mdm-profisee, succeeded, 04/18/2022 18:43:43
+Data Management, ci-repo-dst-snowflake-cdw_develop_20220414_.1, ci-repo-dst-snowflake-cdw, succeeded, 04/14/2022 19:38:08
+Data Management, ci-repo-dst-mdm-profisee_develop_20220414_.2, ci-repo-dst-mdm-profisee, succeeded, 04/14/2022 19:06:36
+Data Management, ci-repo-dst-adf-cdw-load_develop_20220414_11_34.1, ci-repo-dst-adf-cdw-load, succeeded, 04/14/2022 15:34:49
+Data Management, ci-repo-dst-mdm-profisee_develop_20220414_.1, ci-repo-dst-mdm-profisee, succeeded, 04/14/2022 15:03:27
+Data Management, ci-repo-dst-snowflake-cdw_develop_20220413_.1, ci-repo-dst-snowflake-cdw, succeeded, 04/13/2022 20:50:31
+Data Management, ci-repo-dst-mdm-profisee_develop_20220413_.1, ci-repo-dst-mdm-profisee, succeeded, 04/13/2022 14:46:57
+Data Management, ci-repo-dst-snowflake-cdw_main_20220413_.1, ci-repo-dst-snowflake-cdw, succeeded, 04/13/2022 13:59:59
+Data Management, ci-repo-dst-adf-cdw-load_develop_20220412_12_18.1, ci-repo-dst-adf-cdw-load, succeeded, 04/12/2022 16:18:48
+Data Management, ci-repo-dst-adf-cdw-load_bugfix-employee-paramter-fix_20220412_11_37.1, ci-repo-dst-adf-cdw-load, succeeded, 04/12/2022 15:37:33
+Data Management, ci-repo-dst-adf-cdw-load_bugfix-employee-paramter-fix_20220412_11_32.1, ci-repo-dst-adf-cdw-load, succeeded, 04/12/2022 15:33:01
+Data Management, ci-repo-dst-adf-cdw-load_bugfix-employee-paramter-fix_20220412_10_19.1, ci-repo-dst-adf-cdw-load, succeeded, 04/12/2022 14:19:34
+Data Management, ci-repo-dst-adf-cdw-load_bugfix-employee-paramter-fix_20220412_10_11.1, ci-repo-dst-adf-cdw-load, succeeded, 04/12/2022 14:11:14
+Data Management, ci-repo-dst-snowflake-cdw_release-1.8_20220411_.1, ci-repo-dst-snowflake-cdw, succeeded, 04/11/2022 21:07:47
+Data Management, ci-repo-dst-snowflake-cdw_develop_20220411_.1, ci-repo-dst-snowflake-cdw, succeeded, 04/11/2022 21:06:15
+Data Management, ci-repo-dst-mdm-profisee_release-1.2_20220411_.1, ci-repo-dst-mdm-profisee, succeeded, 04/11/2022 18:39:12
+Data Management, ci-repo-dst-mdm-profisee_develop_20220411_.1, ci-repo-dst-mdm-profisee, succeeded, 04/11/2022 18:33:37
+Data Management, ci-repo-dst-mdm-profisee_develop_20220409_.1, ci-repo-dst-mdm-profisee, succeeded, 04/10/2022 03:41:17
+Data Management, ci-repo-dst-mdm-profisee_bugfix-0409-mdm-deployment_20220409_.2, ci-repo-dst-mdm-profisee, succeeded, 04/10/2022 03:40:20
+Data Management, ci-repo-dst-mdm-profisee_bugfix-0409-mdm-deployment_20220409_.1, ci-repo-dst-mdm-profisee, succeeded, 04/10/2022 03:29:11
+Data Management, ci-repo-dst-snowflake-cdw_release-1.8_20220408_.1, ci-repo-dst-snowflake-cdw, succeeded, 04/08/2022 20:04:12
+Data Management, ci-repo-dst-snowflake-cdw_develop_20220407_.1, ci-repo-dst-snowflake-cdw, succeeded, 04/07/2022 19:45:54
+Data Management, ci-repo-dst-sql-dba_develop_20220407_15_22.1, ci-repo-dst-sql-dba, succeeded, 04/07/2022 19:23:01
+Data Management, ci-repo-dst-adf-cdw-load_develop_20220407_15_21.1, ci-repo-dst-adf-cdw-load, succeeded, 04/07/2022 19:22:26
+Data Management, ci-repo-dst-adf-cdw-load_develop_20220407_9_28.1, ci-repo-dst-adf-cdw-load, failed, 04/07/2022 13:28:20
+Data Management, ci-repo-dst-adf-cdw-load_develop_20220406_16_16.1, ci-repo-dst-adf-cdw-load, failed, 04/06/2022 20:16:52
+Data Management, ci-repo-dst-adf-cdw-load_develop_20220406_16_14.1, ci-repo-dst-adf-cdw-load, failed, 04/06/2022 20:15:00
+Data Management, ci-repo-dst-snowflake-cdw_develop_20220406_.1, ci-repo-dst-snowflake-cdw, succeeded, 04/06/2022 18:39:05
+Data Management, ci-repo-dst-snowflake-cdw_develop_20220405_.1, ci-repo-dst-snowflake-cdw, succeeded, 04/05/2022 20:26:57
+Data Management, ci-repo-dst-mdm-profisee_develop_20220404_.1, ci-repo-dst-mdm-profisee, succeeded, 04/05/2022 02:13:49
+Data Management, ci-repo-dst-mdm-profisee_hotfix-0404-mdm-deployment_20220404_.2, ci-repo-dst-mdm-profisee, succeeded, 04/05/2022 02:12:49
+Data Management, ci-repo-dst-snowflake-cdw_main_20220404_.1, ci-repo-dst-snowflake-cdw, succeeded, 04/04/2022 19:32:50
+Data Management, ci-repo-dst-snowflake-cdw_develop_20220404_.1, ci-repo-dst-snowflake-cdw, succeeded, 04/04/2022 19:32:29
+Data Management, ci-repo-dst-sql-dba_develop_20220404_10_0.1, ci-repo-dst-sql-dba, succeeded, 04/04/2022 14:01:10
+Data Management, ci-repo-dst-mdm-profisee_hotfix-0404-mdm-deployment_20220404_.1, ci-repo-dst-mdm-profisee, succeeded, 04/04/2022 13:30:15
+Data Management, ci-repo-dst-snowflake-cdw_hotfix-2500-Fix-to-handle-orphan-Contacts_20220401_.1, ci-repo-dst-snowflake-cdw, succeeded, 04/01/2022 22:20:48
+Data Management, ci-repo-dst-adf-cdw-load_main_20220401_16_57.1, ci-repo-dst-adf-cdw-load, succeeded, 04/01/2022 20:57:10
+Data Management, ci-repo-dst-adf-cdw-load_hotfix-trigger_update_040122_20220401_15_27.2, ci-repo-dst-adf-cdw-load, succeeded, 04/01/2022 19:31:06
+Data Management, ci-repo-dst-snowflake-cdw_hotfix-production-0401-execution_20220401_.1, ci-repo-dst-snowflake-cdw, succeeded, 04/01/2022 18:29:46
+Data Management, ci-repo-dst-snowflake-cdw_main_20220401_.1, ci-repo-dst-snowflake-cdw, succeeded, 04/01/2022 18:12:12
+Data Management, ci-repo-dst-adf-cdw-load_hotfix-Profisee-Outbound-StatusUpdate_20220401_14_11.1, ci-repo-dst-adf-cdw-load, succeeded, 04/01/2022 18:11:26
+Data Management, ci-repo-dst-snowflake-cdw_develop_20220401_.1, ci-repo-dst-snowflake-cdw, succeeded, 04/01/2022 18:01:31
+Data Management, ci-repo-dst-adf-cdw-load_develop_20220401_10_17.1, ci-repo-dst-adf-cdw-load, succeeded, 04/01/2022 14:17:34
+Data Management, cd-repo-dst-sql-dba, TEST, notDeployed, 01/01/0001 00:00:00
+Data Management, cd-repo-dst-snowflake-cdw, PREPROD, notDeployed, 01/01/0001 00:00:00
+Data Management, cd-repo-dst-snowflake-cdw, TEST, succeeded, 04/25/2022 20:03:58
+Data Management, cd-repo-dst-snowflake-cdw, PREPROD, notDeployed, 01/01/0001 00:00:00
+Data Management, cd-repo-dst-snowflake-cdw, TEST, succeeded, 04/25/2022 20:00:49
+Data Management, cd-repo-dst-mdm-profisee, PROD, notDeployed, 01/01/0001 00:00:00
+Data Management, cd-repo-dst-mdm-profisee, PREPROD, succeeded, 04/25/2022 16:46:40
+Data Management, cd-repo-dst-mdm-profisee, TEST, succeeded, 04/22/2022 19:34:07
+Data Management, cd-repo-dst-mdm-profisee, DEV, succeeded, 04/22/2022 18:19:05
+Data Management, cd-repo-dst-mdm-profisee, TEST, notDeployed, 01/01/0001 00:00:00
+Data Management, cd-repo-dst-mdm-profisee, TEST, notDeployed, 01/01/0001 00:00:00
+Data Management, cd-repo-dst-mdm-profisee, TEST, notDeployed, 01/01/0001 00:00:00
+Data Management, cd-repo-dst-mdm-profisee, TEST, notDeployed, 01/01/0001 00:00:00
+Data Management, cd-repo-dst-snowflake-cdw, PREPROD, notDeployed, 01/01/0001 00:00:00
+Data Management, cd-repo-dst-snowflake-cdw, TEST, succeeded, 04/21/2022 19:09:10
+Data Management, cd-repo-dst-mdm-profisee, PREPROD, notDeployed, 01/01/0001 00:00:00
+Data Management, cd-repo-dst-mdm-profisee, TEST, succeeded, 04/20/2022 20:54:44
+Data Management, cd-repo-dst-sql-dba, DEV, failed, 04/20/2022 20:40:55
+Data Management, cd-repo-dst-sql-dba, DEV, failed, 04/20/2022 20:40:08
+Data Management, cd-repo-dst-sql-dba, DEV, failed, 04/20/2022 20:39:15
+Data Management, cd-repo-dst-sql-dba, TEST, notDeployed, 01/01/0001 00:00:00
+Data Management, cd-repo-dst-sql-dba, DEV, succeeded, 04/20/2022 20:32:13
+Data Management, cd-repo-dst-snowflake-cdw, TEST, succeeded, 04/25/2022 20:05:40
+Data Management, cd-repo-dst-snowflake-cdw, PREPROD, succeeded, 04/25/2022 20:15:13
+Data Management, cd-repo-dst-snowflake-cdw - repair, TEST, succeeded, 04/25/2022 20:09:18
+Data Management, cd-repo-dst-snowflake-cdw, TEST, succeeded, 04/25/2022 20:10:09
+Data Management, cd-repo-dst-sql-dba, DEV, succeeded, 05/02/2022 14:54:19
+Data Management, cd-repo-dst-mdm-profisee, PREPROD, notDeployed, 01/01/0001 00:00:00
+Data Management, cd-repo-dst-mdm-profisee, TEST, succeeded, 04/29/2022 20:44:22
+Data Management, cd-repo-dst-mdm-profisee, TEST, notDeployed, 01/01/0001 00:00:00
+Data Management, cd-repo-dst-mdm-profisee, DEV, succeeded, 04/29/2022 19:23:16
+Data Management, cd-repo-dst-mdm-profisee, PROD, notDeployed, 01/01/0001 00:00:00
+Data Management, cd-repo-dst-mdm-profisee, PREPROD, succeeded, 04/29/2022 15:35:50
+Data Management, cd-repo-dst-mdm-profisee, TEST, succeeded, 04/28/2022 21:13:19
+Data Management, cd-repo-dst-snowflake-cdw, DEV, succeeded, 04/27/2022 18:17:56
+Data Management, cd-repo-dst-adf-cdw-load, DEV, succeeded, 04/26/2022 21:50:53
+Data Management, cd-repo-dst-sql-dba, DEV, failed, 04/20/2022 20:15:34
+Data Management, cd-repo-dst-mdm-profisee, TEST, notDeployed, 01/01/0001 00:00:00
+Data Management, cd-repo-dst-mdm-profisee, PREPROD, notDeployed, 01/01/0001 00:00:00
+Data Management, cd-repo-dst-mdm-profisee, TEST, succeeded, 04/26/2022 14:53:11
+Data Management, cd-repo-dst-mdm-profisee, TEST, notDeployed, 01/01/0001 00:00:00
+Data Management, cd-repo-dst-adf-cdw-load, PROD, notDeployed, 01/01/0001 00:00:00
+Data Management, cd-repo-dst-snowflake-cdw, DEV, succeeded, 04/25/2022 20:40:38
+Data Management, cd-repo-dst-adf-cdw-load, PREPROD, succeeded, 04/25/2022 20:41:42
+Data Management, cd-repo-dst-adf-cdw-load, TEST, notDeployed, 01/01/0001 00:00:00
+Data Management, cd-repo-dst-snowflake-cdw, TEST, notDeployed, 01/01/0001 00:00:00
+Data Management, cd-repo-dst-snowflake-cdw, PREPROD, succeeded, 04/25/2022 20:20:43
+Data Management, cd-repo-dst-snowflake-cdw, TEST, succeeded, 04/25/2022 20:19:44
+Data Management, cd-repo-dst-mdm-profisee, DEV, succeeded, 04/26/2022 17:12:35
+Data Management, cd-repo-dst-sql-dba, TEST, succeeded, 04/20/2022 19:44:38
+O365 Solutions, 20220429.3, pa-components, succeeded, 04/29/2022 13:43:11
+O365 Solutions, 20220429.2, pa-components, failed, 04/29/2022 13:00:10
+O365 Solutions, 20220429.1, pa-components, failed, 04/29/2022 12:34:02
+O365 Solutions, 20220429.1, pa-irc, succeeded, 04/29/2022 12:18:59
+O365 Solutions, 20220429.1, azfn-siteprovisioning, succeeded, 04/29/2022 13:28:31
+O365 Solutions, 20220428.1, azfn-siteprovisioning, failed, 04/28/2022 13:33:38
+O365 Solutions, 20220420.3, azfn-pnpfunctions, failed, 04/20/2022 15:57:04
+O365 Solutions, 20220420.2, pa-components, failed, 04/20/2022 15:45:05
+O365 Solutions, 20220420.1, pa-components, canceled, 04/20/2022 15:49:16
+O365 Solutions, 20220419.2, pa-insidertraiding, succeeded, 04/19/2022 13:22:42
+O365 Solutions, 20220419.1, pa-insidertraiding, succeeded, 04/19/2022 11:51:41
+O365 Solutions, 20220414.3, pa-insidertraiding, failed, 04/14/2022 18:15:59
+O365 Solutions, 20220414.2, pa-insidertraiding, succeeded, 04/14/2022 18:04:17
+O365 Solutions, 20220414.1, pa-insidertraiding, succeeded, 04/14/2022 17:52:33
+O365 Solutions, 20220411.1, pa-insidertraiding, succeeded, 04/11/2022 11:27:38
+O365 Solutions, 20220407.3, pa-components, succeeded, 04/07/2022 16:48:17
+O365 Solutions, 20220407.3, azfn-siteprovisioning, succeeded, 04/07/2022 16:45:39
+O365 Solutions, 20220407.2, pa-components, succeeded, 04/07/2022 16:43:00
+O365 Solutions, 20220407.2, azfn-siteprovisioning, succeeded, 04/07/2022 16:30:18
+O365 Solutions, 20220407.1, pa-components, succeeded, 04/07/2022 16:28:08
+O365 Solutions, 20220407.1, azfn-siteprovisioning, succeeded, 04/07/2022 14:27:20
+O365 Solutions, 20220407.1, pa-insidertraiding, succeeded, 04/07/2022 12:10:41
+O365 Solutions, 20220404.2, pa-insidertraiding, succeeded, 04/04/2022 14:07:44
+O365 Solutions, 20220404.1, pa-insidertraiding, succeeded, 04/04/2022 13:49:10
+CFN Salesforce, 3191, CI-QA, succeeded, 05/02/2022 22:00:16
+CFN Salesforce, 3170, CI-QA, succeeded, 04/29/2022 22:00:42
+CFN Salesforce, 3149, CI-SANDBOX-DEVOPS, succeeded, 04/29/2022 17:22:11
+CFN Salesforce, 3140, CI-QA, succeeded, 04/28/2022 22:00:17
+CFN Salesforce, 3128, CI-QA, succeeded, 04/27/2022 22:07:15
+CFN Salesforce, 3126, CI-SANDBOX-DEVOPS, succeeded, 04/27/2022 18:34:32
+CFN Salesforce, 3122, CI-SANDBOX-DEVOPS, succeeded, 04/27/2022 15:32:06
+CFN Salesforce, 3120, CI-QA, succeeded, 04/26/2022 22:04:46
+CFN Salesforce, 3119, CI-QA, succeeded, 04/26/2022 22:00:37
+CFN Salesforce, 2920, CI-SANDBOX-DEVOPS, succeeded, 04/25/2022 22:50:58
+CFN Salesforce, 2919, CI-SANDBOX-DEVOPS, canceled, 04/25/2022 22:50:30
+CFN Salesforce, 2908, CI-QA, succeeded, 04/25/2022 22:00:35
+CFN Salesforce, 2857, CI-UAT2, succeeded, 04/25/2022 18:51:11
+CFN Salesforce, 2856, CI-UAT2, canceled, 04/25/2022 18:50:48
+CFN Salesforce, 2806, CI-QA, succeeded, 04/22/2022 14:45:21
+CFN Salesforce, 2776, CI-UAT2, succeeded, 04/21/2022 15:42:32
+CFN Salesforce, 2685, CI-QA, succeeded, 04/18/2022 20:09:15
+CFN Salesforce, 2684, CI-QA, succeeded, 04/18/2022 20:03:04
+CFN Salesforce, 2683, CI-QA, succeeded, 04/18/2022 19:58:51
+CFN Salesforce, 2681, CI-QA, succeeded, 04/18/2022 19:09:02
+CFN Salesforce, 2678, CI-QA, succeeded, 04/18/2022 18:03:15
+CFN Salesforce, 2677, CI-QA, succeeded, 04/18/2022 17:16:05
+CFN Salesforce, 2676, CI-SANDBOX-DEVOPS, succeeded, 04/18/2022 14:51:37
+CFN Salesforce, 2674, CI-SANDBOX-DEVOPS, succeeded, 04/17/2022 07:27:02
+CFN Salesforce, 2673, CI-QA, succeeded, 04/17/2022 06:51:35
+CFN Salesforce, 2672, CI-QA, succeeded, 04/17/2022 06:04:01
+CFN Salesforce, 2671, CI-SANDBOX-DEVOPS, succeeded, 04/17/2022 05:50:20
+CFN Salesforce, 2670, CI-SANDBOX-DEVOPS, succeeded, 04/17/2022 05:21:22
+CFN Salesforce, CD-QA, QA, succeeded, 05/02/2022 22:04:29
+CFN Salesforce, CD-SANDBOX-DEVOPS, SANDBOX-DEVOPS, failed, 04/26/2022 01:43:36
+CFN Salesforce, CD-SANDBOX-DEVOPS, SANDBOX-DEVOPS, succeeded, 04/26/2022 01:40:02
+CFN Salesforce, CD-SANDBOX-DEVOPS, SANDBOX-DEVOPS, succeeded, 04/26/2022 01:30:41
+CFN Salesforce, CD-SANDBOX-DEVOPS, SANDBOX-DEVOPS, succeeded, 04/26/2022 01:24:54
+CFN Salesforce, CD-SANDBOX-DEVOPS, SANDBOX-DEVOPS, succeeded, 04/25/2022 22:55:30
+CFN Salesforce, CD-SANDBOX-DEVOPS, SANDBOX-DEVOPS, failed, 04/25/2022 22:46:04
+CFN Salesforce, CD-SANDBOX-DEVOPS, SANDBOX-DEVOPS, succeeded, 04/25/2022 22:38:45
+CFN Salesforce, CD-QA, QA, succeeded, 04/25/2022 22:05:23
+CFN Salesforce, CD-SANDBOX-DEVOPS, SANDBOX-DEVOPS, succeeded, 04/26/2022 01:47:44
+CFN Salesforce, CD-UAT2, UAT2, failed, 04/25/2022 18:57:31
+CFN Salesforce, CD-UAT2, UAT2, failed, 04/21/2022 15:51:51
+CFN Salesforce, CD-QA, QA, succeeded, 04/18/2022 20:12:43
+CFN Salesforce, CD-QA, QA, failed, 04/18/2022 20:06:02
+CFN Salesforce, CD-QA, QA, notDeployed, 01/01/0001 00:00:00
+CFN Salesforce, CD-QA, QA, notDeployed, 01/01/0001 00:00:00
+CFN Salesforce, CD-QA, QA, notDeployed, 01/01/0001 00:00:00
+CFN Salesforce, CD-QA, QA, notDeployed, 01/01/0001 00:00:00
+CFN Salesforce, CD-SANDBOX-DEVOPS, SANDBOX-DEVOPS, failed, 04/18/2022 16:32:07
+CFN Salesforce, CD-QA, QA, succeeded, 04/22/2022 15:12:52
+CFN Salesforce, CD-SANDBOX-DEVOPS, SANDBOX-DEVOPS, succeeded, 04/26/2022 01:52:17
+CFN Salesforce, CD-SANDBOX-DEVOPS, SANDBOX-DEVOPS, succeeded, 04/26/2022 01:57:10
+CFN Salesforce, CD-SANDBOX-DEVOPS, SANDBOX-DEVOPS, succeeded, 04/26/2022 02:04:01
+CFN Salesforce, CD-QA, QA, succeeded, 04/29/2022 22:04:39
+CFN Salesforce, CD-SANDBOX-DEVOPS, SANDBOX-DEVOPS, notDeployed, 01/01/0001 00:00:00
+CFN Salesforce, CD-QA, QA, succeeded, 04/28/2022 22:04:29
+CFN Salesforce, CD-QA, QA, succeeded, 04/27/2022 22:11:05
+CFN Salesforce, CD-SANDBOX-DEVOPS, SANDBOX-DEVOPS, failed, 04/27/2022 18:40:56
+CFN Salesforce, CD-SANDBOX-DEVOPS, SANDBOX-DEVOPS, notDeployed, 01/01/0001 00:00:00
+CFN Salesforce, CD-QA, QA, succeeded, 04/26/2022 22:11:04
+CFN Salesforce, CD-QA, QA, failed, 04/26/2022 22:07:52
+CFN Salesforce, CD-QA, QA, failed, 04/26/2022 22:02:22
+CFN Salesforce, CD-UAT2, UAT2, succeeded, 04/26/2022 03:27:33
+CFN Salesforce, CD-UAT2, UAT2, failed, 04/26/2022 03:23:39
+CFN Salesforce, CD-SANDBOX-DEVOPS, SANDBOX-DEVOPS, failed, 04/26/2022 03:14:01
+CFN Salesforce, CD-SANDBOX-DEVOPS, SANDBOX-DEVOPS, failed, 04/26/2022 03:08:31
+CFN Salesforce, CD-SANDBOX-DEVOPS, SANDBOX-DEVOPS, failed, 04/26/2022 03:04:04
+CFN Salesforce, CD-SANDBOX-DEVOPS, SANDBOX-DEVOPS, succeeded, 04/26/2022 02:25:57
+CFN Salesforce, CD-SANDBOX-DEVOPS, SANDBOX-DEVOPS, succeeded, 04/26/2022 02:22:00
+CFN Salesforce, CD-SANDBOX-DEVOPS, SANDBOX-DEVOPS, failed, 04/26/2022 02:19:27
+CFN Salesforce, CD-SANDBOX-DEVOPS, SANDBOX-DEVOPS, succeeded, 04/26/2022 02:11:19
+CFN Salesforce, CD-SANDBOX-DEVOPS, SANDBOX-DEVOPS, failed, 04/26/2022 02:06:28
+CFN Salesforce, CD-SANDBOX-DEVOPS, SANDBOX-DEVOPS, failed, 04/17/2022 07:30:42
+CFN Salesforce, CD-SANDBOX-DEVOPS, SANDBOX-DEVOPS, succeeded, 04/17/2022 05:59:05
